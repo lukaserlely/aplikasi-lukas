@@ -1,0 +1,5 @@
+{
+  "name": "SI-WIRATAN: Poverty Monitoring & ML Classification",
+  "description": "Sistem Informasi Monitoring Warga Miskin Desa Wiratan menggunakan Machine Learning (Decision Tree) untuk klasifikasi status ekonomi yang akurat dan transparan.",
+  "requestFramePermissions": []
+}
